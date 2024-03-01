@@ -1,0 +1,7 @@
+C:\Users\Alunos\Desktop\andery\teste git\teste git\bin\Debug\teste git.exe.config
+C:\Users\Alunos\Desktop\andery\teste git\teste git\bin\Debug\teste git.exe
+C:\Users\Alunos\Desktop\andery\teste git\teste git\bin\Debug\teste git.pdb
+C:\Users\Alunos\Desktop\andery\teste git\teste git\obj\Debug\teste git.csproj.AssemblyReference.cache
+C:\Users\Alunos\Desktop\andery\teste git\teste git\obj\Debug\teste git.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\andery\teste git\teste git\obj\Debug\teste git.exe
+C:\Users\Alunos\Desktop\andery\teste git\teste git\obj\Debug\teste git.pdb
