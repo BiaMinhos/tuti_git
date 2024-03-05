@@ -7,6 +7,8 @@ namespace teste_git
         {
             string nome = " Bibs Mianchi";
             Console.WriteLine(nome);
+            string turma = "34 ds";
+            Console.WriteLine(turma);
             Console.ReadKey();
         }
     }
